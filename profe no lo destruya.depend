@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1533588208 source:c:\users\pc02\desktop\profe no lo destruya\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<stdlib.h>
+
+1535078389 source:d:\profe no lo destruya\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<stdlib.h>
+
